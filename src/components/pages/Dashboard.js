@@ -6,7 +6,7 @@ function Dashboard () {
     return<div className="d1">
         
 
-
+This is the Dashboard
 
 
     </div>

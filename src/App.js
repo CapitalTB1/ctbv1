@@ -12,10 +12,11 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" />
+        <Route path='/' element={<Main/>}/>
+        <Route path='Dashboard' element={<Dashboard/>}/>
       </Routes>
-    <Main/>
-    <Nav/>
+    
+    
 
 
 
